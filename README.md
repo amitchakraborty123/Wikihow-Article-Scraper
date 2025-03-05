@@ -41,3 +41,7 @@ python wikihow.py
 ## 🚀 About Me
 I'm a Data Analyst.
 
+
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
